@@ -11,3 +11,4 @@ Link of the Github repository
 https://github.com/Blairshaq/digital_revolution_module_1/
 
 Screen Shot of the deployed app
+![module1](https://user-images.githubusercontent.com/107201271/183403622-1bd806ec-93e9-418b-b30f-367345d1c8ed.jpg)
